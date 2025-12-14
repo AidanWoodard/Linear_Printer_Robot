@@ -1,2 +1,4 @@
 # Image-Conversion-Robot---Hatching-and-Printing-Machine
-This project utilizes a Lulz-Bot gantry to convert any image into a series of linear lines in a process known as hatching. You can see a more detailed description in the ReadMe file.
+This project utilizes a Lulz-Bot gantry to convert any image into a series of linear lines in a process known as hatching.
+
+This is not a maintained project, but a more detailed description of the project with images can be found here: https://sites.google.com/view/linear-printer-robot/home
